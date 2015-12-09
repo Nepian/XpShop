@@ -1,0 +1,13 @@
+name: XpShop
+main: com.Nepian.XpShop.Main
+version: 0.1
+author: Nepian
+commands:
+  buyxp:
+    usage: /<command> <amount>
+    aliases:
+    - bxp
+  sellxp:
+    usage: /<command> <amount>
+    aliases:
+    - sxp
